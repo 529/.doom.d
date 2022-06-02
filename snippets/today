@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: today
+# uuid:
+# key: trigger-key
+# condition: t
+# --
+today today
